@@ -6,5 +6,7 @@
             "email": "k0982637445@gamil.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
 }
